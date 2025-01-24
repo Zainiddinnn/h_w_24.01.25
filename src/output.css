@@ -602,6 +602,10 @@ video {
   gap: 70px;
 }
 
+.rounded-\[\] {
+  border-radius: ;
+}
+
 .rounded-\[50\%\] {
   border-radius: 50%;
 }
@@ -635,10 +639,6 @@ video {
   padding: 5px;
 }
 
-.text-\[44px\] {
-  font-size: 44px;
-}
-
 .text-\[40px\] {
   font-size: 40px;
 }
@@ -653,6 +653,10 @@ video {
 
 .text-\[60px\] {
   font-size: 60px;
+}
+
+.text-\[44px\] {
+  font-size: 44px;
 }
 
 .font-\[600\] {
